@@ -1,3 +1,7 @@
+#NOT
+TR|İlk olarak kendim yapmayı denedim fakat yanlış bir şekilde başladım. Body içerisine direkt olarak 2 adet div oluşturdum, ancak sadece result card'ını tamamlayabildim. summary card'a geçtiğimde desktop-design.jpg'yi daha detaylı inceledim ve tek bir container içerisine yazılması gerektiğini anladım. Bunun üzerine projeye main ve ekstra kapsayıcı div ekledim ve result ve summary'yi o div'in içine aldım. Ancak yine başarılı olamadım. Çözüme Youtube'dan baktığımda Kevin Powell'ın videosuna bakarak problemi çözdüm.
+#
+EN|At first, I tried to do it myself, but I started in the wrong way. I created two divs directly in the body, but I could only complete the result card. When I got to the summary card, I examined desktop-design.jpg in more detail and realized it needed to be written in a single container. So, I added main and extra container divs to the project and put the result and summary in that div. However, I still couldn't succeed. When I looked for a solution on YouTube, I solved the problem by watching Kevin Powell's video.
 # Frontend Mentor - Results summary component
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
