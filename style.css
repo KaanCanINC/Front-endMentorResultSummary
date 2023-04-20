@@ -326,6 +326,10 @@ body {
   .results {
     border-radius: var(--border-radius);;
   }
+
+  .attribution{
+    visibility: hidden;
+  }
 }
 
 .attribution {
