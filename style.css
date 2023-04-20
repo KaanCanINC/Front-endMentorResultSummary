@@ -328,7 +328,7 @@ body {
   }
 
   .attribution{
-    visibility: hidden;
+    display: none;
   }
 }
 
